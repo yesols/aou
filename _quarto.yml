@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "All of Us Resources"
+  description: "Practice run"
+  navbar:
+    background: "#F1B300"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar: 
+    pinned: true
+    logo: images/UI_WWAMI_stacked_pms_3514.png
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents: 
+      - href: introduction.qmd
+        text: Intro
+      - href: getting-started.qmd
+        text: Getting Started
+      - href: analysis.qmd
+        text: Analysis
+      - href: resources.qmd
+        text: resources
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
