@@ -2,10 +2,4 @@
 title: "All of Us Resources"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+We have curated useful information and resources to help you get started on research using *All of Us* data.
