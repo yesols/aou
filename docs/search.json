@@ -11,7 +11,7 @@
     "href": "introduction.html",
     "title": "Introduction",
     "section": "",
-    "text": "Websites:\nProgram website for public\nAll of Us Research Hub\nOrientation video link:\nhttps://youtu.be/EH31xofM22o?si=8qobcmEk4wbyKTuO\nOr, embed:\n\nDropbox mp4\nWorkshop Lesson 1 Slides\nWorkshop Lesson 1 mp4",
+    "text": "Websites:\nProgram website for public\nAll of Us Research Hub\nOrientation video link:\nhttps://youtu.be/EH31xofM22o?si=8qobcmEk4wbyKTuO\nOr, embed:\n\nDropbox material\nWorkshop Lesson 1 Slides",
     "crumbs": [
       "Home",
       "Intro"
@@ -22,10 +22,43 @@
     "href": "introduction.html#quarto",
     "title": "Introduction",
     "section": "",
-    "text": "Websites:\nProgram website for public\nAll of Us Research Hub\nOrientation video link:\nhttps://youtu.be/EH31xofM22o?si=8qobcmEk4wbyKTuO\nOr, embed:\n\nDropbox mp4\nWorkshop Lesson 1 Slides\nWorkshop Lesson 1 mp4",
+    "text": "Websites:\nProgram website for public\nAll of Us Research Hub\nOrientation video link:\nhttps://youtu.be/EH31xofM22o?si=8qobcmEk4wbyKTuO\nOr, embed:\n\nDropbox material\nWorkshop Lesson 1 Slides",
     "crumbs": [
       "Home",
       "Intro"
+    ]
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Home",
+      "Analysis"
+    ]
+  },
+  {
+    "objectID": "analysis.html#quarto",
+    "href": "analysis.html#quarto",
+    "title": "Analysis",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "Home",
+      "Analysis"
+    ]
+  },
+  {
+    "objectID": "analysis.html#running-code",
+    "href": "analysis.html#running-code",
+    "title": "Analysis",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\n\npwd\n\n/Users/yesol/Projects/quarto_practice/aou\n\n\n\nimport pandas as pd\ndf = pd.DataFrame()\nprint(df)",
+    "crumbs": [
+      "Home",
+      "Analysis"
     ]
   }
 ]
